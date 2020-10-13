@@ -13,3 +13,12 @@
 - Cut (Cuts an object, *uses* bladeStyle, serrated, typeOfSteel, hardness. *Modifies* sharp)
 - Price (How expensive is it, *uses* typeOfSteel, bladeStyle)
 - dullTime (How long until it dulls, *uses* hardness, typeOfSteel, serrated. *Modifies* sharp)
+
+---
+
+##Takeda Aogami
+- hardness: 62
+- typeOfSteel: Blue Aogami Super Steel
+- bladeStyle: Nakiri
+- sharp: true
+- serrated: false
