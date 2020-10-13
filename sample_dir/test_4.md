@@ -1,4 +1,5 @@
 #Kitchen Knife Class
+
 ##Attributes
 - hardness (Float)
 - typeOfSteel (String)
